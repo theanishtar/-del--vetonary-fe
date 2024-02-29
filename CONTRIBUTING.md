@@ -1,10 +1,13 @@
 # Đóng Góp
+
+Chào mừng bạn đến với dự án **VulgarVeto**! Chúng tôi rất hoan nghênh mọi hình thức đóng góp từ cộng đồng.
+
 ## Người đóng góp
 <!-- ![Tên người dùng](URL_hình_ảnh) -->
 
+<a href="https://github.com/theanishtar/VulgarVeto/graphs/contributors"><img src="https://opencollective.com/theanishtar/contributors.svg?width=890" /></a>
 ----------
 
-Chào mừng bạn đến với dự án **VulgarVeto**! Chúng tôi rất hoan nghênh mọi hình thức đóng góp từ cộng đồng.
 
 ## Hướng dẫn Đóng Góp
 
@@ -19,12 +22,12 @@ Clone repo đã fork về máy tính của bạn: `git clone https://github.com/
 ### 3. Tạo nhánh làm việc
 Tạo một nhánh mới để làm việc trên: `git checkout -b feature/your-feature`
 
-Nhánh mới sẽ có cấu trúc như sau: `<feature_name>_<dev>_name`
+Nhánh mới sẽ có cấu trúc như sau: `<feature_name>_<dev_name>`
 
 ### 4. Thực hiện các thay đổi cần thiết trong mã nguồn của bạn.
 
 ### 5. Commit
-Commit các thay đổi của bạn: `git commit -am 'Add new feature'`
+Commit các thay đổi của bạn: `git commit -m 'feat: new feature'`
 
 Lưu ý: Vui lòng tham khảo tại [đây](https://davisupers.web.app/github/session7.html) để commit trở nên chuẩn nhất
 
