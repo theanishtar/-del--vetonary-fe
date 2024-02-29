@@ -5,6 +5,7 @@ Chào mừng bạn đến với dự án **VulgarVeto**! Chúng tôi rất hoan 
 ## Người đóng góp
 <!-- ![Tên người dùng](URL_hình_ảnh) -->
 
+<a href="https://github.com/theanishtar/VulgarVeto/graphs/contributors"><img src="https://opencollective.com/theanishtar/contributors.svg?width=890" /></a>
 ----------
 
 
