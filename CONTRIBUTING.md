@@ -3,9 +3,13 @@
 Chào mừng bạn đến với dự án **VulgarVeto**! Chúng tôi rất hoan nghênh mọi hình thức đóng góp từ cộng đồng.
 
 ## Người đóng góp
-<!-- ![Tên người dùng](URL_hình_ảnh) -->
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="display: inline-block; margin-right: 10px;">
+        <a href="https://github.com/theanishtar"><img src="https://avatars.githubusercontent.com/u/89396036?v=4" alt="Image 1" style="border-radius: 50%; width: 30px; height: 30px;"></a>
+    </li>
+    <!-- Add more images as needed -->
+</ul>
 
-<a href="https://github.com/theanishtar/VulgarVeto/graphs/contributors"><img src="https://opencollective.com/theanishtar/contributors.svg?width=890" /></a>
 ----------
 
 

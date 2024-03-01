@@ -1,8 +1,24 @@
 # Chào mừng đến với Vetonary Check APIs
 
-![](./images/81c6bf9dd803755d2c12.jpg)
-
 Vetonary APIs cung cấp các công cụ mạnh mẽ cho các nhà phát triển để kiểm tra và phân tích nội dung văn bản để phát hiện những từ ngữ thô tục, phản cảm, không phù hợp. Các API của chúng tôi giúp bạn duy trì một môi trường sạch sẽ và an toàn cho người dùng và cộng đồng của bạn.
+
+<!-- ![](./images/81c6bf9dd803755d2c12.jpg) -->
+<!-- ![](./images/image-removebg-preview%20(2).png) -->
+<div style="text-align: center;">
+    <img width="200px" align="center" src="./images/logo-vetonary.png"></img>
+
+   ![GitHub last commit](https://img.shields.io/github/last-commit/theanishtar/vetonary)
+  ![GitHub forks](https://img.shields.io/github/forks/theanishtar/vietnamese-bad-words-detector)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/theanishtar/vietnamese-bad-words-detector)
+</div>
+
+---
+
+Việc kiểm tra các từ ngữ là rất quan trọng với những dự án cộng đồng như mạng xã hội hay diễn đàn
+
+Bạn cũng có thể cung cấp thêm từ ngữ thô tục cho chúng tôi tại [đây](). Rất cảm ơn !
+
+<img width="400px" src="./images/81c6bf9dd803755d2c12.jpg"></img>
 
 ## Đặc Điểm
 
@@ -34,3 +50,10 @@ Chúng tôi luôn sẵn lòng giúp đỡ bạn mọi lúc! Nếu bạn có bấ
 Bắt đầu sử dụng Vetonary Check APIs ngay hôm nay và tạo ra một môi trường
 
 ## Những người đóng góp mã nguồn
+
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="display: inline-block; margin-right: 10px;">
+        <a href="https://github.com/theanishtar"><img src="https://avatars.githubusercontent.com/u/89396036?v=4" alt="Image 1" style="border-radius: 50%; width: 30px; height: 30px;"></a>
+    </li>
+    <!-- Add more images as needed -->
+</ul>
