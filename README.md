@@ -2,15 +2,13 @@
 
 Vetonary APIs cung cấp các công cụ mạnh mẽ cho các nhà phát triển để kiểm tra và phân tích nội dung văn bản để phát hiện những từ ngữ thô tục, phản cảm, không phù hợp. Các API của chúng tôi giúp bạn duy trì một môi trường sạch sẽ và an toàn cho người dùng và cộng đồng của bạn.
 
-<!-- ![](./images/81c6bf9dd803755d2c12.jpg) -->
-<!-- ![](./images/image-removebg-preview%20(2).png) -->
-<div style="text-align: center;">
-    <img width="200px" align="center" src="./images/logo-vetonary.png"></img>
-
-   ![GitHub last commit](https://img.shields.io/github/last-commit/theanishtar/vetonary)
-  ![GitHub forks](https://img.shields.io/github/forks/theanishtar/vietnamese-bad-words-detector)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/theanishtar/vietnamese-bad-words-detector)
-</div>
+<p align="center">
+  <a href="https://github.com/theanishtar/vietnamese-bad-words-detector"> <img width="200px" align="center" src="./images/logo-vetonary.png"></img></a> <br/>
+  <a href=""><img src="https://img.shields.io/github/last-commit/theanishtar/vetonary" alt="GitHub last commit"></a>
+  <a href=""><img src="https://img.shields.io/github/forks/theanishtar/vietnamese-bad-words-detector" alt="GitHub forks"></a>
+  <a href=""><img src="https://img.shields.io/github/stars/theanishtar/vietnamese-bad-words-detector" alt="GitHub Repo stars"></a>
+  <a href=""><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
+</p>
 
 ---
 
