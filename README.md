@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Chào mừng đến với Vetonary Check APIs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](./images/81c6bf9dd803755d2c12.jpg)
 
-## Available Scripts
+Vetonary APIs cung cấp các công cụ mạnh mẽ cho các nhà phát triển để kiểm tra và phân tích nội dung văn bản để phát hiện những từ ngữ thô tục, phản cảm, không phù hợp. Các API của chúng tôi giúp bạn duy trì một môi trường sạch sẽ và an toàn cho người dùng và cộng đồng của bạn.
 
-In the project directory, you can run:
+## Đặc Điểm
 
-### `npm start`
+- **Phát Hiện Từ Ngữ Thô Tục**: Phát hiện và loại bỏ các từ ngữ thô tục và phản cảm trong nội dung văn bản.
+- **Tùy Chỉnh Bộ Lọc Từ**: Tùy chỉnh bộ lọc từ ngữ thô tục dựa trên nhu cầu cụ thể và hướng dẫn của cộng đồng.
+- **Phân Tích Văn Bản**: Phân tích nội dung văn bản để tìm từ ngữ không phù hợp, tâm trạng và cách diễn đạt.
+- **Mở Rộng và Đáng Tin Cậy**: Các API của chúng tôi được xây dựng để có khả năng mở rộng và đáng tin cậy, đảm bảo hiệu suất cao ngay cả khi có tải nặng.
+- **Dễ Dàng Tích Hợp**: Tích hợp đơn giản và dễ dàng với các ứng dụng và nền tảng hiện có của bạn.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Bắt Đầu
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Để bắt đầu sử dụng Vetonary Check APIs trong các dự án của bạn, hãy tuân theo các bước đơn giản sau đây:
 
-### `npm test`
+1. **Đăng Ký**: Tạo tài khoản trên trang web của chúng tôi và nhận khóa API của bạn.
+2. **Tích Hợp APIs**: Theo hướng dẫn trong [Tài Liệu API](apis.md) của chúng tôi để tích hợp các API vào ứng dụng của bạn.
+3. **Bắt Đầu Kiểm Tra Từ Ngữ Thô Tục**: Sử dụng các API của chúng tôi để kiểm tra nội dung văn bản để phát hiện từ ngữ thô tục và không phù hợp.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Lợi Ích
 
-### `npm run build`
+- **Nâng Cao Trải Nghiệm Người Dùng**: Đảm bảo trải nghiệm người dùng tích cực và an toàn bằng cách loại bỏ nội dung không thích hợp.
+- **Kiểm Soát Cộng Đồng**: Cung cấp cho các người quản lý cộng đồng của bạn các công cụ mạnh mẽ để duy trì một môi trường lịch sự.
+- **Tuân Thủ và Quy Định**: Tuân thủ các quy định và hướng dẫn về kiểm soát nội dung.
+- **An Tâm**: Yên tâm rằng các nền tảng của bạn sẽ không chứa từ ngữ thô tục và nội dung không phù hợp.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Hỗ Trợ và Phản Hồi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Chúng tôi luôn sẵn lòng giúp đỡ bạn mọi lúc! Nếu bạn có bất kỳ câu hỏi, phản hồi hoặc cần trợ giúp, đừng ngần ngại liên hệ với [đội hỗ trợ](mailto:support@vatonary.com) của chúng tôi.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Bắt đầu sử dụng Vetonary Check APIs ngay hôm nay và tạo ra một môi trường
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Những người đóng góp mã nguồn
